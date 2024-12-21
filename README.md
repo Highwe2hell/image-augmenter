@@ -101,12 +101,6 @@ data/
 - `tqdm`
 - 其他依赖（已列出在 `requirements.txt`）
 
-安装依赖：
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 许可证
 
 本项目使用 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) 许可证。
